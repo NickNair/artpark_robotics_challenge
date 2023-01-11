@@ -15,7 +15,10 @@ object detection pipeline using Yolov4 was implemented in order to identify tras
 - Prior to the hardware round a dockerized submission of the gazebo simulation demonstrating the solution was
 implemented
 
-Link to competion Video : [click here](https://www.youtube.com/watch?v=HfuiV0cgzNs)
+## Related Links
+- Link to competion Video : [click here](https://www.youtube.com/watch?v=HfuiV0cgzNs)
+- Link to robot's ros packages : [click here](https://github.com/NickNair/GigaRoboticsArtpark) 
+
 
 ## 1. The Robot
 The robot has a footprint of 45x45 cm. The robot has 4 mecanum wheels, which enable holonomic motion. The robot has an RPLidar A1 sensor laser sensor which is present in the base of the robot. The lidar is mainly used for autonomous navigation. On the base, the robot has a 6 DoF robotic arm which is used to pick and place trash, spray and wipe. The gripper of the arm has an Intel D435 camera mounted on it. This is used for pose estimation of various items in the washroom and for 3D obstacle avoidance.
