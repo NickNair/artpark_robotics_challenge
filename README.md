@@ -21,6 +21,9 @@ implemented
 - Link to robot's ros packages : [click here](https://github.com/NickNair/GigaRoboticsArtpark) 
 - news articles :  [MTI News](https://mtinews.in/artpark-concludes-robotics-challenge-more-than-134-teams-across-india-participated-in-the-competition-to-showcase-innovations-in-the-field-of-robotics/?amp=1), [Times of India](https://timesofindia.indiatimes.com/city/bengaluru/janitor-robots-of-three-teams-win-two-spots-at-artpark-contest/articleshow/91583256.cms), [The Hindu](https://www.thehindu.com/news/cities/bangalore/over-130-participants-in-challenge-to-build-robots-to-perform-janitorial-tasks-in-washrooms/article65419038.ece)
 
+![Alt Text](https://github.com/NickNair/artpark_robotics_challenge/blob/main/media/gigarobotics.gif)
+
+
 ## 1. The Robot
 The robot has a footprint of 45x45 cm. The robot has 4 mecanum wheels, which enable holonomic motion. The robot has an RPLidar A1 sensor laser sensor which is present in the base of the robot. The lidar is mainly used for autonomous navigation. On the base, the robot has a 6 DoF robotic arm which is used to pick and place trash, spray and wipe. The gripper of the arm has an Intel D435 camera mounted on it. This is used for pose estimation of various items in the washroom and for 3D obstacle avoidance.
 
