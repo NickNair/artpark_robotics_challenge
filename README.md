@@ -1,5 +1,22 @@
 # Artpark Robotics Challenge
 
+ARTPARK’s Robotics Challenge 2021-22, required a robot to demonstrate janitorial tasks that would be typically
+performed in a washroom. The tasks were limited to clearing any rubbish that may be on the floor followed by cleaning
+the washbasin and the washbasin counter using a sanitizing liquid finally, the robot would also mop the floor of the
+restroom. The robot was given a brief opportunity to scout out the restroom area so that it can assess the environment
+and create a representation of it for planning and navigation purposes
+
+Worked as a part of team Giga Robotics under the guidance of Juan Miguel Jimeno (Creator of LinoRobot and
+Champ), Prateek Nagras (CEO, Acceleration Robotics), Dr.K V Gangadharan (Professor, NIT Karnataka). A
+budget of 5000$ was provided to realise the robot from simulation to hardware
+• Designed and built a janitorial robot with a mobile base and a robotic arm with Autonomous Navigation
+Capabilities using ROS1. The robot used a Lidar and a depth camera for obstacle avoidance and navigation. An
+object detection pipeline using Yolov4 was implemented in order to identify trash on the floor
+• Prior to the hardware round a dockerized submission of the gazebo simulation demonstrating the solution was
+implemented
+
+Link to competion Video : [click here](https://www.youtube.com/watch?v=HfuiV0cgzNs)
+
 ## 1. The Robot
 The robot has a footprint of 45x45 cm. The robot has 4 mecanum wheels, which enable holonomic motion. The robot has an RPLidar A1 sensor laser sensor which is present in the base of the robot. The lidar is mainly used for autonomous navigation. On the base, the robot has a 6 DoF robotic arm which is used to pick and place trash, spray and wipe. The gripper of the arm has an Intel D435 camera mounted on it. This is used for pose estimation of various items in the washroom and for 3D obstacle avoidance.
 
