@@ -6,13 +6,13 @@ the washbasin and the washbasin counter using a sanitizing liquid finally, the r
 restroom. The robot was given a brief opportunity to scout out the restroom area so that it can assess the environment
 and create a representation of it for planning and navigation purposes
 
-Worked as a part of team Giga Robotics under the guidance of Juan Miguel Jimeno (Creator of LinoRobot and
+- Worked as a part of team Giga Robotics under the guidance of Juan Miguel Jimeno (Creator of LinoRobot and
 Champ), Prateek Nagras (CEO, Acceleration Robotics), Dr.K V Gangadharan (Professor, NIT Karnataka). A
 budget of 5000$ was provided to realise the robot from simulation to hardware
-• Designed and built a janitorial robot with a mobile base and a robotic arm with Autonomous Navigation
+- Designed and built a janitorial robot with a mobile base and a robotic arm with Autonomous Navigation
 Capabilities using ROS1. The robot used a Lidar and a depth camera for obstacle avoidance and navigation. An
 object detection pipeline using Yolov4 was implemented in order to identify trash on the floor
-• Prior to the hardware round a dockerized submission of the gazebo simulation demonstrating the solution was
+- Prior to the hardware round a dockerized submission of the gazebo simulation demonstrating the solution was
 implemented
 
 Link to competion Video : [click here](https://www.youtube.com/watch?v=HfuiV0cgzNs)
