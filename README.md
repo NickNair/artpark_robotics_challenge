@@ -17,6 +17,7 @@ implemented
 
 ## Related Links
 - Link to competion Video : [click here](https://www.youtube.com/watch?v=HfuiV0cgzNs)
+- Competion Photos : [click here](https://photos.app.goo.gl/k56VLieepqfDLhcG7)
 - Link to robot's ros packages : [click here](https://github.com/NickNair/GigaRoboticsArtpark) 
 - news articles :  [MTI News](https://mtinews.in/artpark-concludes-robotics-challenge-more-than-134-teams-across-india-participated-in-the-competition-to-showcase-innovations-in-the-field-of-robotics/?amp=1), [Times of India](https://timesofindia.indiatimes.com/city/bengaluru/janitor-robots-of-three-teams-win-two-spots-at-artpark-contest/articleshow/91583256.cms), [The Hindu](https://www.thehindu.com/news/cities/bangalore/over-130-participants-in-challenge-to-build-robots-to-perform-janitorial-tasks-in-washrooms/article65419038.ece)
 
